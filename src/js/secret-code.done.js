@@ -20,3 +20,9 @@ class SecretCode {
 
 	}
 }
+
+
+class ShowError {
+
+	constructor(inputItem, callback)
+}
